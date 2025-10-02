@@ -31,6 +31,10 @@ chain = prompt | llm | StrOutputParser()
 # --- 2. Initialize the FastAPI Application ---
 app = FastAPI()
 
+@app.get("/")
+def health():
+    return {"status": "Nexus triage bot live", "model": "gemini-2.5-flash"}
+
 # --- 3. Update Pydantic models to capture the 'chat_id' ---
 class TelegramChat(BaseModel):
     id: int
