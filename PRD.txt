@@ -1,0 +1,55 @@
+Product Requirements Document: Nexus (MVP V1.0)
+1. Introduction
+Nexus is a mobile-first personal command center designed to be the single, unified system for capturing, managing, and acting on an individual's ideas, tasks, and goals. It leverages an intelligent AI agent for low-friction capture and a beautifully designed app for intuitive management, aiming to become an indispensable tool for personal productivity.
+2. The Problem
+Creative and busy individuals struggle with scattered information. Ideas are lost in messaging apps, tasks are buried under sticky notes, and powerful tools like Notion fail due to a clunky mobile experience. This fragmentation leads to lost ideas, missed tasks, and a constant feeling of disorganization.
+3. The Vision & Solution
+Nexus solves this by creating a seamless ecosystem built for how the mind actually works:
+Effortless Capture: An AI-powered chatbot (via WhatsApp/Telegram) acts as a personal assistant, intelligently understanding and categorizing information from natural language.
+Unified Management: A mobile-first app provides a single source of truth, with dedicated, beautifully designed spaces for different types of information (ideas, flexible tasks, and scheduled projects).
+Intelligent Integration: A two-way sync with Google Calendar keeps the user's structured schedule aligned with a tool they already trust.
+The ultimate goal is a product so intuitive and effective that the user "cannot NOT use it."
+4. Core User Flow (MVP)
+Capture: The user sends a text to the Nexus chatbot (e.g., "idea: a new way to visualize project timelines").
+Clarify (if needed): The AI agent analyzes the text. If the intent isn't clear, it asks a clarifying question (e.g., "Is this a time-sensitive task you'd like to schedule?").
+Triage: Based on the user's input, the agent files the entry into the appropriate category (Idea, Flexible Task, or Time-Blocked Task).
+Manage: The user opens the Nexus mobile app.
+The new entry appears in the Inbox.
+From the Inbox, they can take action (e.g., assign the idea to the "Idea Garden" or schedule the task).
+They can view their daily flexible tasks in the "Today" View.
+They can browse their unscheduled ideas in the "Idea Garden".
+They can see their scheduled tasks on the Timeline, which is synced with their Google Calendar.
+5. Functional Requirements (MVP)
+5.1. The AI Agent (Chatbot)
+5.1.1. Interface: Must be accessible via a common messaging platform (e.g., WhatsApp).
+5.1.2. Intelligent Triage: Must use an LLM to analyze user text and classify it into one of three primary categories:
+Idea: A non-actionable concept.
+Flexible Task: A short, personal task with no specific deadline.
+Time-Blocked Task: A work or project-related task that requires a dedicated time slot.
+5.1.3. Conversational Clarification: If the AI cannot confidently classify an entry, it MUST ask the user clarifying questions with simple button/text replies to determine the correct category (e.g., "When would you like to schedule this?").
+5.1.4. Keyword Triggers: Will support initial keyword triggers (e.g., "task:") as a reliable fallback for classification.
+5.2. The Nexus Mobile App
+5.2.1. The Inbox: The default landing screen for new items captured by the agent. Each item can be actioned (e.g., moved to Today, Garden, or Timeline).
+5.2.2. The "Today" View:
+Displays all Flexible Tasks for the current day.
+Must be implemented as a "Dynamic Bubble Checklist": tasks appear as clean, readable floating bubbles. Tapping a bubble expands it for detail and a "Complete" action. Completed bubbles animate out to a "Done" area.
+5.2.3. The "Idea Garden" View:
+Displays all Idea items.
+Must be implemented as a Bento Box Grid of visual cards. Each card displays the idea's title and its AI-generated category tag. The grid should be visually dynamic.
+5.2.4. The Timeline View: A simple, scrollable calendar/agenda view that displays all Time-Blocked Tasks and events.
+5.2.5. The Weekly Idea Review:
+The app must have a settings area where the user can enable this feature and set a preferred day/time.
+When enabled, the app will send one proactive push notification per week, prompting the user to start their review.
+Tapping the notification opens a special, guided UI that presents the user with their unscheduled ideas to triage (Schedule, Archive, Delete).
+5.2.6. Fitness Log (MVP "Hook"):
+A simple button to "Log a Workout".
+This will open a basic text input field where the user can freeform type their workout details.
+The entry will be saved and timestamped, visible on the Timeline/log.
+5.3. Google Calendar Integration
+5.3.1. Two-Way Sync: Must support authentication with a user's Google account.
+5.3.2. Scope: The sync will ONLY apply to Time-Blocked Tasks and events created within Nexus. It will not clutter the user's Google Calendar with flexible tasks or ideas. Events created in Google Calendar will also appear in the Nexus Timeline.
+6. Out of Scope for MVP
+Desktop App / Mind Map: The mind map view for the Idea Garden is a post-MVP feature for a desktop version.
+Full Workout Template Creator: The structured workout system will be a separate project or a future integration.
+Integrated Pomodoro Timer: Users will be encouraged to use their own external timer apps.
+Advanced Task Management: Features like sub-tasks, recurring tasks, or detailed project management views are deferred.

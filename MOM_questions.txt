@@ -1,0 +1,158 @@
+Form Title: Understanding Your Personal Productivity Habits
+Form Description:
+Hey there! I'm exploring how busy people manage their ideas and tasks. This is NOT about a specific product idea, but rather about understanding your current habits. Your honest answers will be super helpful. This should only take about 5 minutes. Thanks!
+
+Section 1: Your Current Productivity Toolkit
+1. When it comes to managing your personal and work life, which tools do you currently rely on?
+(Checkbox / Multi-select Question)
+
+[ ] Physical notebooks or sticky notes
+
+[ ] A simple notes app (like Apple Notes, Google Keep)
+
+[ ] A dedicated to-do list app (like Todoist, Things, Microsoft To Do)
+
+[ ] A complex project management tool (like Notion, Asana, Trello)
+
+[ ] My phone's calendar app (Google Calendar, Apple Calendar)
+
+[ ] I send myself emails or text messages
+
+[ ] I just try to remember things
+
+[ ] Other: ____________________
+
+2. Think about the last time you had a really productive day. What was the main reason it felt that way?
+(Radio Button / Single-choice Question)
+
+[ ] I had a clear, written-down plan for the day.
+
+[ ] I successfully balanced my scheduled appointments with my flexible tasks.
+
+[ ] I didn't have to worry about forgetting anything important.
+
+[ ] I made significant progress on a long-term goal or project.
+
+[ ] I just had a lot of energy and focus.
+
+[ ] Other: ____________________
+
+Section 2: Capturing Ideas & Tasks on the Go
+3. An interesting idea pops into your head while you're away from your desk. What is your MOST common reflex to make sure you don't forget it?
+(Radio Button / Single-choice Question)
+
+[ ] I grab the nearest piece of paper or a sticky note.
+
+[ ] I open a quick notes app on my phone (Apple Notes, Google Keep, etc.).
+
+[ ] I send myself a text, a WhatsApp message, or an email.
+
+[ ] I open a more structured app like Notion or Todoist to put it in the "right place."
+
+[ ] I tell someone I'm with so they can help me remember.
+
+[ ] I just hope I'll remember it later.
+
+[ ] Other: ____________________
+
+4. Think about the last time you felt you lost a good idea or forgot an important personal task. What was the primary cause?
+(Radio Button / Single-choice Question)
+
+[ ] I wrote it down in a place I forgot to check later.
+
+[ ] The tool I use is too slow or clunky to use on my phone.
+
+[ ] I was in a conversation and didn't have a chance to capture it.
+
+[ ] I captured it, but it got lost in a sea of other notes and tasks.
+
+[ ] I simply forgot and never wrote it down.
+
+[ ] Other: ____________________
+
+Section 3: Organizing & Scheduling Your Life
+5. How do you typically decide what goes ON your main calendar (e.g., Google/Apple Calendar) versus what goes on a general to-do list?
+(Radio Button / Single-choice Question)
+
+[ ] My calendar is ONLY for things with a specific date and time (appointments, meetings).
+
+[ ] I put important, time-sensitive tasks on my calendar to block out time for them.
+
+[ ] I try to put everything on my calendar to have one single view of my life.
+
+[ ] I don't really use a calendar for tasks, only for events.
+
+[ ] It's a bit of a mess; I don't have a clear system.
+
+[ ] Other: ____________________
+
+6. Once you've captured a new note or task, what's the next step you usually take?
+(Radio Button / Single-choice Question)
+
+[ ] I leave it in an "inbox" to sort through later.
+
+[ ] I immediately try to file it into the right project or category.
+
+[ ] I just leave it where I captured it (e.g., in my text messages, on a sticky note).
+
+[ ] I add a specific due date or schedule it on my calendar right away.
+
+[ ] I usually forget about it until I stumble upon it again.
+
+[ ] Other: ____________________
+
+7. Have you ever tried connecting a to-do list or project management app to your main calendar? What was your experience?
+(Checkbox / Multi-select Question)
+
+[ ] I haven't tried this.
+
+[ ] It was helpful; I liked seeing everything in one place.
+
+[ ] It was too cluttered; it added too many small tasks to my calendar.
+
+[ ] The sync was unreliable or didn't work the way I wanted.
+
+[ ] I tried it but disconnected it later.
+
+[ ] Other: ____________________
+
+Section 4: Reviewing & Other Habits
+8. You have a list of "someday/maybe" ideas or projects. How often do you go back to review that list?
+(Radio Button / Single-choice Question)
+
+[ ] Regularly (e.g., every week or month as part of a planned review).
+
+[ ] Occasionally, whenever I happen to remember or have free time.
+
+[ ] Rarely. The list just keeps getting longer.
+
+[ ] Never. Once I write it down, I almost never look at it again.
+
+[ ] I don't have a "someday/maybe" list.
+
+[ ] Other: ____________________
+
+9. Do you currently track your workouts or any other regular fitness activity?
+(Radio Button / Single-choice Question)
+
+[ ] Yes, I use a dedicated fitness app or a smartwatch.
+
+[ ] Yes, I write it down in a physical journal or a general notes app.
+
+[ ] Yes, I mark it on my calendar.
+
+[ ] I try to, but I'm not very consistent with it.
+
+[ ] No, I don't track my workouts.
+
+[ ] Other: ____________________
+
+Final Question: If you're open to it, would you be willing to chat for 15 minutes about your responses?
+(This helps you identify friends who are really engaged and are perfect for a follow-up, true Mom Test conversation!)
+
+[ ] Yes, here's my email: ____________________
+
+[ ] No, thanks.
+
+Thank You!
+Your feedback is incredibly valuable. Thanks for taking the time!
